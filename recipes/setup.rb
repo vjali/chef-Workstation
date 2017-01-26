@@ -10,6 +10,6 @@ file '/etc/motd' do
 	content 'Property of ...'
 end
 
-package ['git', 'vim'] do
+package ['git', 'vim', 'emacs'] do
 
 end
